@@ -9,3 +9,6 @@
 
 ## 🧵 Strings
  - [Longest Substring Without Repeating Characters](https://github.com/Gabriel-Gebril/Algorithms/blob/master/Longest_Substring_NoDupes.py)
+
+## 📜 Arrays
+ - [Median of Two Sorted Arrays](https://github.com/Gabriel-Gebril/Algorithms/blob/master/Median_of_Two_Sorted_Arrays.py)
