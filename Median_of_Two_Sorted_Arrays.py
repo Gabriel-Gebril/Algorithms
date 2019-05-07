@@ -1,4 +1,4 @@
-# Time complexity is O(log(min(x,y))
+# Time complexity is O(log(n+m)
 class Solution:
     def findMedianSortedArrays(self,nums1: List[int], nums2: List[int]) -> float:        
         if len(nums1) < len(nums2):
